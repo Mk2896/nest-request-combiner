@@ -1,0 +1,1 @@
+export { InjectRequesTypesInterceptor } from "./inject-request-types.interceptor"

@@ -1,0 +1,8 @@
+src
+
+# Dependency directories
+node_modules
+
+# Others
+tsconfig.json
+tsconfig.tsbuildinfo

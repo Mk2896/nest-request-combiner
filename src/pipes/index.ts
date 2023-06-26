@@ -1,0 +1,1 @@
+export { StripRequestTypePipe } from './strip-request-types.pipe'

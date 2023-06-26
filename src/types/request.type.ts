@@ -1,0 +1,1 @@
+export type RequestType = 'query' | 'params' | 'body';

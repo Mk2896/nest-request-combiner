@@ -1,0 +1,8 @@
+# build output
+dist
+
+# Dependency directories
+node_modules
+
+# Others
+tsconfig.tsbuildinfo

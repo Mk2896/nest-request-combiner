@@ -1,0 +1,26 @@
+{
+  "name": "request-combiner",
+  "version": "1.0.0",
+  "description": "A simple package for nestjs to get query or param request data in body Dto or vice versa",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mk2896/request-combiner"
+  },
+  "homepage": "https://github.com/Mk2896/request-combiner/blob/master/README.md",
+  "keywords": [
+    "Request Combine",
+    "Query Params",
+    "Nestjs"
+  ],
+  "author": "Muhammad Maaz Khan",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^10.0.3",
+    "typescript": "^5.1.3"
+  }
+}
