@@ -1,5 +1,5 @@
 {
-  "name": "request-combiner",
+  "name": "nest-request-combiner",
   "version": "1.0.0",
   "description": "A simple package for nestjs to get query or param request data in body Dto or vice versa",
   "main": "dist/index.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mk2896/request-combiner"
+    "url": "https://github.com/Mk2896/nest-request-combiner"
   },
-  "homepage": "https://github.com/Mk2896/request-combiner/blob/master/README.md",
+  "homepage": "https://github.com/Mk2896/nest-request-combiner/blob/master/README.md",
   "keywords": [
     "Request Combine",
     "Query Params",

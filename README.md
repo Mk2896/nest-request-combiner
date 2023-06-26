@@ -1,4 +1,4 @@
-# request-combiner
+# nest-request-combiner
 
 A simple package for `nestjs` to get `query` or `param` request data in `body Dto` or vice versa.
 
@@ -12,7 +12,7 @@ A simple package for `nestjs` to get `query` or `param` request data in `body Dt
 To install it, using npm:
 
 ```shell
-npm install request-combiner
+npm install nest-request-combiner
 ```
 ## Usage
 
